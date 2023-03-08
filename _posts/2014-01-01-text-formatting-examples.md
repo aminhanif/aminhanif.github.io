@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting Examples"
+title: "Cara Bikin Post"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]

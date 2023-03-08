@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Cara Utak-atik Blog Ini"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
