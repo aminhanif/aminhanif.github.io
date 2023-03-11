@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Nyobain Dulu"
-author: "Hanif"
+author: "Hanif" 
 categories: journal
 tags: [documentation,sample]
 image: hanif-main-gitar.jpg
+
 ---
 
 <em>Di post ini, gua nyampah-nyampah doang.</em> <!--more-->
