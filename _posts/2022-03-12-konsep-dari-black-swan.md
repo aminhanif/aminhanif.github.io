@@ -3,7 +3,7 @@ layout: post
 title: "Konsep-konsep dari Black Swan"
 author: "Hanif" 
 categories: 
-tags: 
+tags: [black swan, nassim taleb]
 image: 
 
 ---
@@ -12,7 +12,7 @@ image:
 
 Membaca Black Swan. Belum selesai tapi sudah gatal untuk menulis. Bukan pengalaman membaca yang *menyenangkan*. Tentu ini buku yang baik, tetapi mengganggu. Memaksa saya untuk memikirkan ulang hidup saya: apa yang mungkin dicapai (dan seberapa mungkin) + apa yang tidak mungkin dicapai. Pada dasarnya, konsep-konsep yang saya pelajari berkaitan secara langsung soal interpretasi atas kenyataan. 
 
-- Extremistan dan mediocristan
+**Extremistan dan mediocristan**
 
 Extremistan adalah sebuah "dunia" di mana sebagian besar "penduduk" kelihatan sama. Tapi tiba-tiba kamu bisa menemukan "penduduk-raksasa". 
 
@@ -22,23 +22,26 @@ Mediocristan adalah sebuah "dunia" di mana semua "penduduk" kelihatan sama. Oke,
 
 Contoh: tinggi badan orang dewasa. Sebagian besar orang dewasa bertinggi *sama*. Nggak ada perbedaan yang gila-gilaan. Tinggi manusia terpendek di dunia adalah 50 cm. Tinggi manusia tertinggi di dunia adalah 250 cm. Cuma 5 kali lipat (lihat extremistan).
 
-- Turkey problem
+**Turkey problem**
 
 Setahun ada 365 hari. Dari hari ke-1 sampai ke-354, seekor ayam disayang-sayang oleh seorang manusia. Diberi makan, diberi minum, dibiarkan bebas. Kesimpulan? Manusia sayang ayam selamanya. Esoknya dia kena gorok. Jadi... apakah penalaran induktif *reliable*?
 
-- Black swan (of course)
+**Black swan (of course)**
 
 Gampangnya adalah versi naratif dari extremistan. 
 
-- Narrative fallacy
+**Narrative fallacy**
 
 Manusia cenderung bersikap + berkesimpulan berdasarkan narasi yang ada ketimbang statistik dan rigorous scientific data. Common sense sama sekali bukan jawaban. Sesuatu yang make sense bisa jadi sangat sangat sangat keliru untuk memprediksi sebab-akibat suatu peristiwa.
 
-- Dead evidence
+**Dead evidence**
 
 Live evidence : Bill Gates = DROP OUT. Zuckerberg = DROP OUT. 
 
-Dead evidence : puluhan ribu orang-orang menyedihkan lain = DROP OUT. 
+Dead evidence : puluhan ribu orang-orang menyedihkan lain = DROP OUT.
+
+
+### Jadi...
 
 Konsep-konsep tadi sudah saya praktikkan dalam hidup. Akan tetapi, Taleb menyusunnya jadi satu gagasan yang koheren sehingga memaksamu untuk melihat ulang dunia melalui kaca mata yang disediakan oleh gagasan tersebut (alih-alih memakainya secara sporadis).
 
