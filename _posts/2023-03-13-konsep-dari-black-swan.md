@@ -10,7 +10,7 @@ image:
 
 *Beberapa konsep penting setelah seperempat jalan membaca Black Swan-nya Nassim Taleb* <!--more-->
 
-Membaca Black Swan. Belum selesai tapi sudah gatal untuk menulis. Bukan pengalaman membaca yang *menyenangkan*. Tentu ini buku yang baik, tetapi mengganggu. Memaksa gue untuk memikirkan ulang hidup saya: apa yang mungkin dicapai (dan seberapa mungkin) + apa yang tidak mungkin dicapai. Pada dasarnya, konsep-konsep yang gua pelajari berkaitan secara langsung soal interpretasi atas kenyataan. 
+Membaca Black Swan. Belum selesai tapi sudah gatal untuk menulis. Bukan pengalaman membaca yang *menyenangkan*. Tentu ini buku yang baik, tetapi mengganggu. Memaksa gue untuk memikirkan ulang hidup gue: apa yang mungkin dicapai (dan seberapa mungkin) + apa yang tidak mungkin dicapai. Pada dasarnya, konsep-konsep yang gua pelajari berkaitan secara langsung soal interpretasi atas kenyataan. 
 
 **Extremistan dan mediocristan**
 
