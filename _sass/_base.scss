@@ -4,10 +4,11 @@
 
 body {
   font-family: $serif-font-family;
-  font-size: 18px;
+  font-size: 16px;
   color: $body-color;
   line-height: 1.75rem;
 }
+
 
 @media (max-width: $elements-responsive-width) {
   body {
@@ -29,18 +30,29 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif-font-family;
-  color: $dark-gray-color;
+  color: black;
 }
 
-a {
-  text-decoration: underline;
-  color: $dark-gray-color;
-}
-
-a:hover {
+/* unvisited link */
+a:link {
   color: $link-color;
-  border-bottom: none;
 }
+
+/* visited link */
+a:visited {
+  color: $link-color;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: $link-color;
+}
+
 
 img {
   max-width: 100%;

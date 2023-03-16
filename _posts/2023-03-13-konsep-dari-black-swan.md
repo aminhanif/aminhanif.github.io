@@ -5,6 +5,7 @@ author: "Hanif"
 categories: 
 tags: [black swan, nassim taleb]
 image: 
+permalink: black-swan
 
 ---
 
