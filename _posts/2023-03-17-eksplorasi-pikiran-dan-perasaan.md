@@ -10,9 +10,10 @@ description: Eksplorasi gua terhadap pikiran dan perasaan sendiri. Melalui perta
 
 ---
 
-<img class="center" alt="gua dan pikiran dan perasaan" src="/assets/img/saya-dan-pikiran.png">
 
 *Eksplorasi gua terhadap pikiran dan perasaan sendiri. Melalui pertanyaan terus-menerus dan (semoga nantinya) eksperimentasi.* <!--more-->
+
+<img class="center" alt="gua dan pikiran dan perasaan" src="/assets/img/saya-dan-pikiran.png">
 
 Seminggu terakhir ini sedang berkutat dengan pikiran-pikiran soal karir. Yang memicunya? Tim Urban lewat [artikelnya](https://waitbutwhy.com/2018/04/picking-career.html).
 
