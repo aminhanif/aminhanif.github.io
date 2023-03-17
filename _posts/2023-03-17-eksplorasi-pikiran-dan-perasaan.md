@@ -13,7 +13,9 @@ description: Eksplorasi gua terhadap pikiran dan perasaan sendiri. Melalui perta
 
 *Eksplorasi gua terhadap pikiran dan perasaan sendiri. Melalui pertanyaan terus-menerus dan (semoga nantinya) eksperimentasi.* <!--more-->
 
-<img class="center" alt="gua dan pikiran dan perasaan" src="/assets/img/saya-dan-pikiran.png">
+<div align="center">
+    <img alt="gua dan pikiran dan perasaan" src="/assets/img/saya-dan-pikiran.png">
+</div>
 
 Seminggu terakhir ini sedang berkutat dengan pikiran-pikiran soal karir. Yang memicunya? Tim Urban lewat [artikelnya](https://waitbutwhy.com/2018/04/picking-career.html).
 
@@ -31,8 +33,12 @@ Jadi, bagaimana untuk mengetahui keinginan kita yang *sebenarnya*? Yah, gua perc
 
 Misalnya, sekitar satu jam yang lalu gua gelisah. Ada semacam perasaan nggak nyaman. Daripada membiarkannya begitu saja (biasanya memang akan hilang sendiri), gua mencoba membedahnya lewat pertanyaan-pertanyaan. Apa yang sedang gua pikirkan ketika gelisah? Kebermanfaatan gua di dunia. Memangnya, ada apa dengan kebermanfaatan? Gua takut kalau di dunia ini cuma jadi parasit---cuma makan-minum-berak tanpa ngasih manfaat ke orang lain ... dan akhirnya gua mencorat-coret satu halaman kertas selama beberapa waktu soal apa yang gua lakukan beserta potensi manfaat dan kerugiannya: menghasilkan beberapa *insight* kecil yang menarik. 
 
-<img class="center" alt="gua dan pikiran dan perasaan setelah diberikan kertas dan pulpen" src="/assets/img/saya-pikiran-dkk.png">
-<p class="center"><em>bahagia = kertas + bolpoin</em></p>
+<div align="center">
+    <img alt="gua dan pikiran dan perasaan setelah diberikan kertas dan pulpen" src="/assets/img/saya-pikiran-dkk.png">
+    <p><em>bahagia = kertas + bolpoin</em></p>
+</div>
+
+
 
 Mempertanyakan perasaan ternyata bisa membawa gua ke tempat-tempat menarik, membantu gua untuk mengenal diri sendiri dengan sedikit lebih baik. Tentu, bisa jadi perasaan gelisah tersebut datang hanya karena gejala biologis di otak (mungkin dopamin gua menurun atau *neurotransmitter* lain berubah kadarnya secara agak signifikan atau fenomena lainnya) dan pikiran soal kebermanfaatan tersebut cuma efek samping. Kalau begitu, nggak apa-apa juga. Justru kegelisahan tersebut bisa memberikan gua kesempatan untuk mengeksplorasi ketakutan-ketakutan gua---kali ini soal kebermanfaatan. 
 
@@ -44,7 +50,9 @@ Di sisi lain, gua percaya bahwa faktor biologis memegang peran penting terhadap 
 
 Kalau elo mengalami *bad mood* sepanjang hari setelah mendengar seseorang meneriaki elo dengan sebutan "monyet", bisa jadi yang bermasalah bukan sebutan "monyet" tersebut atau orang yang meneriakinya. Mungkin malam sebelumnya elo kurang tidur sehingga jadi lebih sensitif. Atau mungkin elo kebanyakan minum kopi. 
 
-<img class="center" alt="gua dan monyet" src="/assets/img/saya-dan-monyet.png">
+<div align="center">
+    <img alt="gua dan monyet" src="/assets/img/saya-dan-monyet.png">
+</div>
 
 Jangan lupakan pula perilaku-perilaku semacam nonton Tiktok atau nonton bokep atau main PS yang kalau dilakukan dalam jangka waktu yang signifikan bisa [menurunkan tingkat dopamin di otak](https://www.goodreads.com/en/book/show/55723020) elo secara signifikan: menghasilkan perasaan *males ngapa-ngapain* atau *kehilangan rasa nikmat* terhadap hidup. 
 
@@ -52,8 +60,10 @@ Jadi, lagi-lagi, kalau lo merasa hari elo nggak bermakna atau penuh dengan *bad 
 
 Catatan: gua mendapatkan banyak *insights* soal hubungan antara faktor-faktor behavioral/biologis (seperti tidur, nutrisi, atau olahraga) dan *well-being* dari podcast oleh [Andrew Huberman](https://www.youtube.com/@hubermanlab/videos). 
 
-<img class="center" alt="isi kepala manusia" src="/assets/img/isi-kepala.png">
-<p class="center"><em>hal-hal yang memengaruhi isi kepala elo</em></p>
+<div align="center">
+    <img alt="isi kepala manusia" src="/assets/img/isi-kepala.png">
+    <p><em>hal-hal yang memengaruhi isi kepala elo</em></p>
+</div>
 
 ## Kesimpulannya...
 
