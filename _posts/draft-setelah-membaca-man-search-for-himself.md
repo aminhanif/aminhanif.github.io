@@ -8,11 +8,9 @@ image: image-name.jpg
 
 ---
 
-*Man's Search for Himself* mendorong saya untuk memikirkan ulang hal-hal mendasar soal hidup. Siapa saya (dan bagaimana menemukannya)? Apa yang saya inginkan (bukan yang saya atau orang lain *ingin untuk saya inginkan*)? Di mana makna hidup? 
+*Man's Search for Himself* mendorong saya untuk memikirkan ulang hal-hal mendasar soal hidup. Siapa saya (dan bagaimana menemukannya)? Apa yang saya inginkan (bukan yang saya atau orang lain *ingin untuk saya inginkan*)? Di mana makna hidup? Lewat buku ini, Rollo May coba men-*tackle* hal-hal tadi dalam konteks dunia modern. 
 
-Lewat buku ini, Rollo May coba men-*tackle* hal-hal tadi dalam konteks dunia modern. 
-
-Apa yang unik dari dunia modern--yang membuat eksplorasi diri dan makna jadi sedikit "*tricky*"--?  
+Memangnya, apa yang unik dari dunia modern--yang membuat eksplorasi diri dan makna jadi sedikit "*tricky*"--?  
 
 Nietszche menulis: "Tuhan telah mati." Sebuah kalimat yang merangkum banyak hal. Saya melihatnya sebagai sebuah pengamatan, mungkin *prophecy*, soal kekosongan makna dalam dunia modern (yang secara kasar bisa kita mulai pembabakannya sejak Revolusi Industri). 
 
@@ -20,7 +18,7 @@ Nietszche menulis: "Tuhan telah mati." Sebuah kalimat yang merangkum banyak hal.
 
 Bagaimana dengan sekarang?
 
-Entahlah. Tuhan, kalau dipikir-pikir, *still kind of existing*. Bahkan di Barat, yang bisa dibilang makin lama makin ateis (cek lagi), muncul intelektual berpengaruh semacam Jordan Peterson yang mengadvokasi pembelajaran lewat Bible. Di Indonesia, masjid-masjid masih terisi, ulama masih populer dan mengisi perdebatan di masyarakat. 
+Entahlah. Tuhan, kalau dipikir-pikir, *still kind of existing*. Bahkan di Barat, yang bisa dibilang makin lama makin ateis (saya nggak punya hard data, cuma mengira-ngira dari perbandingan fenomena budaya yang saya tahu), muncul intelektual berpengaruh semacam Jordan Peterson yang melakukan pengkajian Bible dengan ekstensif. Di Indonesia, masjid-masjid masih terisi, ulama masih populer dan mengisi perdebatan di masyarakat. 
 
 Tapi, apakah Tuhan *ada*? Agama mungkin ada, tetapi bagaimana dengan Tuhan?
 
@@ -28,13 +26,16 @@ Saya pikir, untuk menjawabnya kita cuma perlu menjawab: apakah dunia ini punya m
 
 Kalau tidak ada nilai, semua diizinkan. Kalau tidak ada makna, nggak ada signifikansi. 
 
-
-
-Dan varian lain yang tak jauh beda adalah percobaan-percobaan untuk menciptakan nilai dan makna dari nol dengan seenaknya. "Oke, nggak ada makna. Terus, gimana? Ya kita bikin saja sesuka kita." Intinya, nggak ada sesuatu yang bermakna secara objektif. Semuanya subjektif. Kita 
+Dan varian lain yang tak jauh beda adalah percobaan-percobaan untuk menciptakan nilai dan makna dari nol. "Oke, nggak ada makna. Terus, gimana? Ya kita bikin saja sesuka kita." Intinya, nggak ada sesuatu yang bermakna secara objektif. Semuanya subjektif. Kita 
 
 [dunia modern: nilai diperoleh dari masyarakat, nggak ada unchanging core]
 
 Saya akan mengeksplorasi ide-ide soal Tuhan lewat tulisan yang lebih panjang. Untuk sementara, kita bisa merenungkannya dengan 
+
+[freedom and discipline]
+
+[rebellion and actualization of self, creating own value, not just responding]
+
 
 
 

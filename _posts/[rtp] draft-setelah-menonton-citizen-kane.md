@@ -5,6 +5,8 @@ author: "Hanif"
 categories: ulasan
 tags: [citizen kane, review film]
 image: 
+description: Soal kebengongan saya setelah menonton Citizen Kane, sebuah film yang katanya terbaik sepanjang masa.
+permalink: menonton-citizen-kane
 
 ---
 
@@ -16,6 +18,6 @@ Entahlah. Padahal, kata seorang teman film ini dianggap sebagai film terbaik. Se
 
 Akan tetapi, ada perasaan yang aneh pula. Rasanya, ada sesuatu yang nggak selesai dari film ini. Ibarat bunga, ia masih kuncup dan untuk membuatnya mekar saya mesti memikirkannya. Ada sesuatu yang menggelitik. Ada banyak hal yang menarik untuk direnungkan. Mungkin saya memang harus menuliskannya. Membuat film ini mekar. 
 
-Kita bisa mulai dari cinta. Mengapa beberapa orang yang ditanyai oleh si jurnalis mengatakan kalau Mr. Kane tidak bisa mencintai orang? Ada perasaan “kosong” dalam diri saya ketika mengamati kehidupan Mr. Kane. Satu-satunya hal yang menyerupai kehangatan adalah ketika ia pertama kali bertemu dengan istri keduanya. Ketika Mr. Kane mendengarkannya bernyanyi. Dengan istri pertamanya ia terlalu sibuk membangun bisnis koran. Dengan istri keduanya ia terlalu sibuk membangun opera untuk pertunjukan istrinya—tetapi hanya demi kepuasan Mr. Kane semata. Karakternya sedikit mengingatkan saya pada [Jack Torrance dalam *The Shining*](https://www.youtube.com/watch?v=0M_ObWKzJcg&ab). Ada semacam ketidakpedulian dengan orang lain yang membuat merinding. 
+Kita bisa mulai dari cinta. Mengapa beberapa orang yang ditanyai oleh si jurnalis mengatakan kalau Mr. Kane tidak bisa mencintai orang? Ada perasaan “kosong” dalam diri saya ketika mengamati kehidupan Mr. Kane. Satu-satunya hal yang menyerupai kehangatan adalah ketika ia pertama kali bertemu dengan istri keduanya, ketika Mr. Kane mendengarkannya bernyanyi. Dengan istri pertamanya ia terlalu sibuk membangun bisnis koran. Dengan istri keduanya ia terlalu sibuk membangun opera untuk pertunjukan istrinya—tetapi hanya demi kepuasan Mr. Kane semata. Karakternya sedikit mengingatkan saya pada [Jack Torrance dalam *The Shining*](https://www.youtube.com/watch?v=0M_ObWKzJcg&ab). Ada semacam ketidakpedulian dengan orang lain yang membuat merinding. 
 
 Entahlah, tetapi itu yang saya rasakan. Menarik, sebetulnya. Ternyata film justru bisa lebih bermakna setelah kita selesai menonton dan memikirkannya ulang. 

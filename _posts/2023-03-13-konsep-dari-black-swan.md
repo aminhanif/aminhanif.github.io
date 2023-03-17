@@ -6,6 +6,7 @@ categories:
 tags: [black swan, nassim taleb]
 image: 
 permalink: konsep-dari-black-swan
+description: Beberapa konsep penting setelah seperempat jalan membaca Black Swan-nya Nassim Taleb.
 
 ---
 
