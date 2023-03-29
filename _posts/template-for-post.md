@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Judul"
 author: "Hanif" 
 categories: whatever
 tags: [whatever, whatevar]
