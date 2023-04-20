@@ -10,6 +10,8 @@ description: Lewat sebuah novel yang berjudul "Lapar", Knut Hamsun mengeksploras
 
 ---
 
+*Kesan saya setelah membaca "Lapar", sebuah novel karya Knut Hamsun*<!--more-->
+
 Saya menelusuri perpustakaan UI dan menemukan *Lapar*: sebuah terjemahan bahasa Indonesia dari novel Knut Hamsun. Seketika saya langsung memutuskan untuk meminjam dan membacanya. Alasannya sederhana saja: nama Knut Hamsun pernah disebut-sebut oleh penulis favorit saya.
 
 Lapar, pada dasarnya, merupakan eksplorasi mendalam terhadap keadaan jiwa seseorang yang lapar. Nah, kapan terakhir kali kamu merasa lapar? 
