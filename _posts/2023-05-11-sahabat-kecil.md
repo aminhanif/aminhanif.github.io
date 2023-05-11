@@ -34,7 +34,7 @@ Teman-teman yang lebih dekat lagi pada masa itu adalah anak-anak tetangga: Idi d
 
 Duh, ada beberapa lagi sebenarnya. Para sepupu seharusnya masuk hitungan. Juga teman-teman TK dan SD yang pada suatu periode sering datang ke rumah. Serta teman-teman kecil lain: para pelanggan warnet, teman-temannya Arya, anak-anak dari temannya Mama Papa, hingga bocah yang datang dari antah berantah. Sebagian memberikan sekeping-dua keping kenangan, sebagian begitu banyak. Sebagian nama mereka, bahkan juga wajah, sudah terlupa. 
 
-Ada teman-teman yang punya sejarah panjang bertahun---seperti Idi atau Samir. Ada juga yang hanya bertemu sekali-dua kali, tetapi entah kenapa masih teringat hingga sekarang. Ingatan memang aneh. Gua juga seharusnya menceritakan dua orang terdekat yang waktu itu selalu jadi teman main: adik dan seorang sepupu bernama Arya. Kapan-kapan deh. 
+Ada teman-teman yang punya sejarah panjang bertahun---seperti Idi atau Samir. Ada juga yang hanya bertemu sekali-dua kali, tetapi entah kenapa masih teringat hingga sekarang. Ingatan memang aneh. Gua juga seharusnya menceritakan dua orang terdekat yang waktu itu selalu jadi teman main: adik gua serta seorang sepupu bernama Arya. Kapan-kapan deh. 
 
 Anjrit, setelah menulis ini, sepertinya teman gua nggak dikit-dikit amat. Hahaha. 
 
