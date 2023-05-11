@@ -36,7 +36,7 @@ Duh, ada beberapa lagi sebenarnya. Para sepupu seharusnya masuk hitungan. Juga t
 
 Ada teman-teman yang punya sejarah panjang bertahun---seperti Idi atau Samir. Ada juga yang hanya bertemu sekali-dua kali, tetapi entah kenapa masih teringat hingga sekarang. Ingatan memang aneh. Gua juga seharusnya menceritakan dua orang terdekat yang waktu itu selalu jadi teman main: adik gua serta seorang sepupu bernama Arya. Kapan-kapan deh. 
 
-Anjrit, setelah menulis ini, sepertinya teman gua nggak dikit-dikit amat. Hahaha. 
+Anjrit, setelah menulis ini, jadi sadar kalau sepertinya teman gua nggak dikit-dikit amat. Hahaha. 
 
 Kini teman-teman kecil itu sudah pada menghilang. Kalau nggak *lost contact*, ya sudah tidak berkomunikasi lagi. Gua juga yakin, kalau kita bertemu, sudah akan banyak nggak nyambungnya. Meski tentu, kita masih bisa bercerita banyak soal pengalaman-pengalaman masa kecil. 
 
