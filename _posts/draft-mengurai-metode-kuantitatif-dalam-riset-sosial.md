@@ -10,4 +10,4 @@ description:
 
 ---
 
-*Pemberontakan adalah reaksi. Langkah selanjutnya adalah aksi.*
+a devil advocate of things that could go wrong in quantitative study. 
