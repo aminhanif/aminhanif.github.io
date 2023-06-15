@@ -5,8 +5,8 @@ author: "Hanif"
 categories: 
 tags: 
 image: 
-permalink: 
-description:
+permalink: imanez-harus-mau
+description: Soal "Harus Mau"-nya Imanez, lirik-lirik telanjang tanpa pretensi dan Potlot sebagai laboratorium bahasa. 
 
 ---
 
