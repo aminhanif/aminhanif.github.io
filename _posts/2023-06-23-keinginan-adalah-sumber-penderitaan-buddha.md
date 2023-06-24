@@ -10,19 +10,23 @@ description: Sebuah usaha untuk mengerti maksud dari pernyataan Buddha bahwa kei
 
 ---
 
-*Tulisan ini sama sekali bukan upaya untuk menjelaskan Buddhisme secara akademik. Ini cuma racauan gua yang (dibuat agak) tersruktur soal keinginan dan penderitaan setelah mencerna beberapa pemikiran Buddhisme. Jadi, pemikiran gua sama sekali tidak mewakili ajaran Buddha dan bisa saja melenceng jauh darinya.*<!--more-->
+*Tulisan ini sama sekali bukan upaya untuk menjelaskan Buddhisme secara akademik. Ini cuma racauan yang (dibuat agak) tersruktur soal keinginan dan penderitaan setelah mencerna beberapa pemikiran Buddhisme. Jadi, pemikiran gua sama sekali tidak mewakili ajaran Buddha dan bisa saja melenceng jauh darinya.*<!--more-->
 
 ## Pergumulan dengan Buddhisme
 
-Dalam seminggu terakhir, gua banyak membaca soal Buddhisme. Selama dua tahun ke belakang, sejak coba-coba belajar meditasi, pemikiran Buddha memang makin sering mampir ke dalam benak. Dan keinginan + penderitaan adalah dua konsep yang seringkali hadir ketika gua dihadapkan dengan Buddhisme. Jadi, "keinginan adalah sumber penderitaan" bukan sesuatu yang  terdengar asing. 
+<div align="center">
+    <img alt="memelajari Buddhisme" src="/assets/img/belajar-buddha.jpg">
+</div>
+
+Dalam seminggu terakhir, gua banyak membaca soal Buddhisme. Selama dua tahun ke belakang, sejak coba-coba [belajar meditasi](https://www.wakingup.com/), pemikiran Buddha memang makin sering mampir ke dalam benak. Dan keinginan + penderitaan adalah dua konsep yang seringkali hadir ketika gua dihadapkan dengan Buddhisme. Jadi, "keinginan adalah sumber penderitaan" bukan sesuatu yang  terdengar asing. 
 
 Di sisi lain, konsep keterjalinan keinginan dan penderitaan juga gua dapati dalam percakapan sehari-hari. Gua menyadari kalau, tanpa tendensi untuk menyadur Buddha, seseorang bisa meng-*adopt* pandangan hidup untuk meminimalisir keinginan. Bentuknya macam-macam: anti menabung (baca: nggak mau mengumpulkan kekayaan), menolak punya cita-cita, filosofi "ikut arus", dan lainnya. 
 
 Kesadaran bahwa keinginan menempel erat dengan penderitaan juga tumbuh di agama lain. Lihat saja konsep syukur. Bukankah di dalamnya adalah pedoman untuk merasa cukup atas apa yang ada sekarang alih-alih mencari-cari (menginginkan) lebih?
 
-Dalam Islam, gua pernah mendengar cerita dari Gus Baha tentang seorang santri dan kyai. Singkatnya, si kyai meminta santri untuk membelikan daging. Hanya saja, santri melapor kalau uangnya tidak cukup. Apa jawaban kyai? "Dibikin murah saja". Si santri bingung, bertanya apa maksudnya. Jawaban si kyai: "ya jangan beli. Jadi, murah kan?" Kisah sederhana ini mencerminkan bagaimana menghilangkan keinginan justru bisa memudahkan hidup. 
+Dalam Islam, gua pernah mendengar cerita dari [Gus Baha](https://youtu.be/B-JlsDq9Yjg) tentang seorang santri dan kyai. Singkatnya, si kyai meminta santri untuk membelikan daging. Hanya saja, santri melapor kalau uangnya tidak cukup. Apa jawaban kyai? "Dibikin murah saja". Si santri bingung, bertanya apa maksudnya. Jawaban si kyai: "ya jangan beli. Jadi, murah kan?" Kisah sederhana ini mencerminkan bagaimana menghilangkan keinginan justru bisa memudahkan hidup. 
 
-Akan tetapi, sejauh pemahaman gua, penderitaan dan keinginan memang menjadi begitu sentral dalam teks-teks Buddha. Ia tidak tersembunyi tetapi [dijabarkan dengan eksplisit, jelas dan formal](https://en.wikipedia.org/wiki/Four_Noble_Truths) sebagai suatu sentral permasalahan. Hal inilah yang membuat ajaran Buddha jadi punya daya tarik yang kuat untuk gua. Ketika membaca teks atau mendengarkan *lecture* soal Buddha, gua tidak dihadapkan dengan pertanyaan soal Tuhan atau bahkan moralitas. Pertanyaan besar dan coba di-*tackle* justru adalah: "bagaimana cara menghilangkan penderitaan?"
+Akan tetapi, sejauh pemahaman gua, penderitaan dan keinginan memang menjadi begitu sentral dalam teks-teks Buddha. Ia tidak tersembunyi tetapi [dijabarkan dengan eksplisit, jelas dan formal](https://en.wikipedia.org/wiki/Four_Noble_Truths) sebagai suatu sentral permasalahan. Hal inilah yang membuat ajaran Buddha jadi punya daya tarik yang kuat untuk gua. Ketika membaca teks atau mendengarkan *lecture* soal Buddha, gua tidak dihadapkan dengan pertanyaan soal Tuhan atau bahkan moralitas. Pertanyaan besar yang coba di-*tackle* justru adalah: "bagaimana cara menghilangkan penderitaan?"
 
 ## Sebuah Paradoks
 
@@ -32,7 +36,7 @@ Entahlah. Keinginan itu aneh. Gua pernah menulis soal [menemukan keinginan yang 
 
 Tapi, secara sekilas ketiadaan keinginan juga menghasilkan suatu kehidupan yang terasa suram. Kalau seseorang sudah tidak punya keinginan apapun, lantas selanjutnya apa yang tersisa? Maka buat apa ia hidup? Atau... justru jatuh ke dalam nihilisme? Nggak ada signifikansi. Nggak ada baik dan buruk. [Semuanya dihalalkan](https://gondolasoy.github.io/setelah-membaca-lapar). Maka, mengapa tidak membiarkan---atau membuat---dunia jadi kacau saja?
 
-Eksplorasi singkat di atas membuat gua merasa penting untuk untuk berhati-hati dalam mencerna keinginan dan penderitaan. Toh, nyatanya Buddha---Siddharta Gautama---berkhotbah soal mencapai *nirvana*. Soal menghilangkan penderitaan. Ia punya titik tuju. Ajaran-ajarannya jadi pedoman supaya orang jadi selamat. *In a way*, Buddha *ingin* orang-orang selamat. Supaya tidak menderita. Kalau tidak, ngapain dia repot-repot *ngajar* dan menyebarkan ajarannya? 
+Eksplorasi singkat di atas membuat gua merasa penting untuk untuk berhati-hati dalam mencerna keinginan dan penderitaan. Toh, nyatanya Buddha---[Siddharta Gautama](https://en.wikipedia.org/wiki/The_Buddha)---berkhotbah soal mencapai *nirvana*. Soal menghilangkan penderitaan. Ia punya titik tuju. Ajaran-ajarannya jadi pedoman supaya orang jadi selamat. *In a way*, Buddha *ingin* orang-orang selamat. Supaya tidak menderita. Kalau tidak, ngapain dia repot-repot *ngajar* dan menyebarkan ajarannya? 
 
 Tapi... bukannya keinginan adalah akar penderitaan? Malah jadi paradoks ya. Hahaha.
 
@@ -41,6 +45,10 @@ Tapi... bukannya keinginan adalah akar penderitaan? Malah jadi paradoks ya. Haha
 Dalam konteks "keinginan adalah penderitaan", gua mencerna keinginan yang dimaksud di dalam kalimat tersebut sebagai suatu *act of clinging to something*. Suatu keadaan terikat.
 
 Keinginan adalah sesuatu yang kalau terjadi akan membuat lo merasakan kenikmatan (*pleasure*). Tapi kalau tidak terpenuhi akan membuat elo menderita. Jadi, kalau punya keinginan, elo akan *clinging* terhadap sesuatu yang elo inginkan untuk menjadi baik-baik saja. Elo jadi **terikat**.
+
+<div align="center">
+    <img alt="keinginan adalah keterikatan adalah penderitaan" src="/assets/img/ingin-dan-menderita.jpg">
+</div>
 
 Pada dasarnya, klaim Buddha adalah kalau akar dari penderitaan adalah keinginan yang tidak terpenuhi ini. Itu saja. Penderitaan = keinginan yang tidak terpenuhi. 
 
@@ -80,7 +88,11 @@ Apakah gua setuju dengan klaim ini? Entahlah. Masih mencerna. Buat gua, jawabann
 
 Di sisi lain, gua percaya kalau elo bisa menghilangkan **keterikatan** (dan karenanya penderitaan)---setidaknya sampai tingkat tertentu--- tanpa perlu kehilangan "diri". Secara sederhana, caranya dengan belajar meditasi. Belajar untuk *being presence*. Lewat meditasi, gua belajar untuk "nrimo" dan "menari bersama apapun yang ada di dalam kesadaran". 
 
-Dan, lucunya, konsep elo tentang "diri" memang jadi berubah setelah punya *meditative experience*. Kalau elo bener-bener mengikuti arus yang ada di *present moment*, "diri" nggak akan hilang dalam sekejap. Tapi, ia akan... terdifusi. "Diri" jadi lebih luas. Bergerak menjadi "latar" dalam kesadaran elo. Seperti satu titik tinta yang pelan-pelan menyebar jadi satu. Larut dengan air. Iya. "Diri" menjadi larut. Dan ketika larut, semua keterikatan jadi lepas dan yang ada cuma keadaan "baik-baik saja".
+Dan, lucunya, konsep elo tentang "diri" memang jadi berubah setelah punya *meditative experience*. Kalau elo bener-bener mengikuti arus yang ada di *present moment*, "diri" nggak akan hilang dalam sekejap. Tapi, ia akan... terdifusi. "Diri" jadi lebih luas. Bergerak menjadi "latar" dalam kesadaran elo. Seperti satu titik tinta yang pelan-pelan menyebar jadi menyeluruh. Larut dengan air. Iya. "Diri" menjadi larut. Dan ketika larut, semua keterikatan jadi lepas dan yang ada cuma keadaan "baik-baik saja".
+
+<div align="center">
+    <img alt="konsep diri yang larut" src="/assets/img/diri-larut.jpg">
+</div>
 
 ## Tanggung Jawab dan Hidup Melampaui Keinginan
 
@@ -103,6 +115,10 @@ Fak. Susah sekali mendeskripsikan hal ini dalam kata. Hahaha.
 Tapi intinya gitu. Dan menurut gua tanggung jawab nggak perlu hadir dengan rasa terikat. Kalau elo berkeinginan atau terikat, tujuannya adalah sampai di tujuan. Sementara itu, tanggung jawab bukan soal *sampai*, tapi soal *menuju*. Tujuannya bukan *mendapatkan*, tetapi *menjadi*. 
 
 Gua rasa, keberadaan tanggung jawab ini jugalah yang menjadi energi bagi Buddha untuk menyebarkan ajarannya. Buddha *tidak ingin* orang-orang selamat, tetapi ia *bertanggung jawab* untuk membuat orang-orang selamat. Mungkin begitulah adanya. 
+
+<div align="center">
+    <img alt="hidup adalah soal menuju" src="/assets/img/arungi-jalan.jpg">
+</div>
 
 ## Sedikit Penutup
 
