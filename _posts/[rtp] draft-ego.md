@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pertanyaan untuk Ego"
+title: "Ego"
 author: "Hanif" 
 categories: 
 tags: 
