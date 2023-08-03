@@ -2,10 +2,10 @@
 layout: post
 title: "Kind of Blue, Modal Jazz dan Cara Kita Mengapresiasi Musik"
 author: "Hanif" 
-categories: 
-tags: 
+categories: ulasan karya
+tags: [jazz, miles davis]
 image: 
-permalink: kind-of-blue
+permalink: kind-of-blue-dan-apresiasi-musik
 description: Tentang Kind of Blue yang tidak bosan gua dengarkan sampai sekarang.
 
 ---

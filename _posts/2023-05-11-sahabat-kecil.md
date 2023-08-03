@@ -2,7 +2,7 @@
 layout: post
 title: "Sahabat Kecil"
 author: "Hanif" 
-categories: 
+categories: personal
 tags: [sahabat kecil, masa kecil]
 image: 
 permalink: sahabat-kecil

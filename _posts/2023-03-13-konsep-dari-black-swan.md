@@ -2,7 +2,7 @@
 layout: post
 title: "Konsep-konsep dari Black Swan"
 author: "Hanif" 
-categories: 
+categories: renungan singkat
 tags: [black swan, nassim taleb]
 image: 
 permalink: konsep-dari-black-swan

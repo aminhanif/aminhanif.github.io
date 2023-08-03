@@ -2,7 +2,7 @@
 layout: post
 title: "Tidak Tahu"
 author: "Hanif" 
-categories: 
+categories: renungan singkat
 tags: 
 image: 
 permalink: tidak-tahu

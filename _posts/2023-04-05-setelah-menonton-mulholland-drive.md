@@ -2,8 +2,8 @@
 layout: post
 title: "Mulholland Drive dan Kebingungan yang Indah"
 author: "Hanif" 
-categories: 
-tags: 
+categories: ulasan karya
+tags: [film, mulholland drive]
 image: 
 permalink: setelah-menonton-mulholland-drive
 description: Pengalaman saya dalam menonton Mulholland Drive, sebuah film Hollywood yang tayang pada 2001 dan disutradarai oleh David Lynch.

@@ -2,8 +2,8 @@
 layout: post
 title: "Tempat-tempat Menyenangkan"
 author: "Hanif" 
-categories: whatever
-tags: [whatever, whatevar]
+categories: personal
+tags: [lombok, pantai]
 image: 
 permalink: tempat-di-lombok
 description:

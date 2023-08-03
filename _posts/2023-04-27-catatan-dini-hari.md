@@ -2,7 +2,7 @@
 layout: post
 title: "Catatan Dini Hari"
 author: "Hanif" 
-categories: 
+categories: renungan singkat
 tags: 
 image: 
 permalink: catatan-dini-hari

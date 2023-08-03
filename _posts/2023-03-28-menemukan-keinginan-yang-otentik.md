@@ -2,8 +2,8 @@
 layout: post
 title: "Menemukan Keinginan yang Otentik"
 author: "Hanif" 
-categories: 
-tags: [keinginan, eksplorasi diri, personal]
+categories: psikologi
+tags: [keinginan, eksplorasi diri]
 image: 
 permalink: menemukan-keinginan-yang-otentik
 description: Tentang menemukan keinginan yang paling dalam, alih-alih menjadi sekadar cermin dari lingkungan.

@@ -2,8 +2,8 @@
 layout: post
 title: "Mencari Lirik dan Menemukan In Medio"
 author: "Hanif" 
-categories: 
-tags: 
+categories: ulasan karya
+tags: [anda perdana, in medio]
 image: 
 permalink: menemukan-in-medio
 description: Tentang pertemuan gua dengan In Medio, sebuah album keren dari Anda Perdana yang memberikan gua inspirasi dengan lirik-liriknya yang penuh kesan.

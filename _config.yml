@@ -17,8 +17,14 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
 
+      
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Hanif'
 description:	       ''
@@ -30,3 +36,12 @@ timezone:
 #  path: rss-feed.xml
 
 excerpt_separator: <!--more-->
+
+# Jekyll Archive
+
+jekyll-archives:
+  enabled: ['year']
+  layouts:
+    year: archive_year # The layout name does not need quotes
+  permalinks:
+    year: '/arsip/:year/'

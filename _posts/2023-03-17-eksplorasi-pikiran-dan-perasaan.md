@@ -2,7 +2,7 @@
 layout: post
 title: "Mengeksplorasi Pikiran dan Perasaan"
 author: "Hanif" 
-categories: 
+categories: psikologi, renungan singkat
 tags: [perasaan, pikiran, eksplorasi]
 image: 
 permalink: eksplorasi-pikiran-dan-perasaan

@@ -2,8 +2,8 @@
 layout: post
 title: "Imanez dan Bait-bait Tanpa Pretensi"
 author: "Hanif" 
-categories: 
-tags: 
+categories: ulasan karya
+tags: [imanez, harus mau]
 image: 
 permalink: imanez-harus-mau
 description: Soal "Harus Mau"-nya Imanez, lirik-lirik telanjang tanpa pretensi dan Potlot sebagai laboratorium bahasa. 

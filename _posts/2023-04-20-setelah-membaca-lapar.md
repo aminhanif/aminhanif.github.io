@@ -2,8 +2,8 @@
 layout: post
 title: "Knut Hamsun, Lapar dan Moralitas Manusia"
 author: "Hanif" 
-categories: 
-tags: 
+categories: ulasan karya
+tags: [knut hamsun, lapar, sastra]
 image: 
 permalink: setelah-membaca-lapar
 description: Lewat sebuah novel yang berjudul "Lapar", Knut Hamsun mengeksplorasi bagaimana moralitas manusia sesungguhnya terkait erat dengan rasa lapar. 
