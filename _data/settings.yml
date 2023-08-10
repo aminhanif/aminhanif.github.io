@@ -9,6 +9,7 @@ google-ID: 'G-33LWZVJY9E'
 menu:
 - {name: 'Tentang Hanif',   url: 'tentang-hanif.html'}
 - {name: 'Kontak', url: 'kontak-hanif.html'}
+- {name: 'Karya', url: 'karya-hanif.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
