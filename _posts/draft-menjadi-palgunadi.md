@@ -30,11 +30,11 @@ Ada banyak sisi yang bisa digali dari kisah Palgunadi, salah satunya adalah soal
 
 Rasa-rasanya benar. Internet merevolusi akses pengetahuan. Kini, semua orang bisa menjadi Palgunadi dan menemukan Drona-nya. Lebih baik lagi, kita dapat menemukan "Drona tanpa Arjuna"---yang dengan sukarela memberikan ilmunya tanpa meminta *dakshina* kepada kita. Jadi, kita tidak perlu lagi menjadi Palgunadi yang belajar dengan sembunyi-sembunyi. Keluasan ilmu yang luar biasa telah dibuka aksesnya dengan cuma-cuma. 
 
-Tentu, internet juga punya sisi hitam. Nyatanya, sejak akses informasi yang terbuka lebar, tidak semua orang berhasil menjadi "Palgunadi yang sukses". Bahkan, mungkin sedikit sekali orang yang berhasil (atau mungkin: ingin) menjadi Palgunadi. Internet juga melahirkan distraksi dan adiksi lewat sosial media, pornografi, informasi-informasi sampah, dan seterusnya. Belum lagi dengan "ilmu abal-abal" dari "Drona-drona palsu" dalam segala macam variannya: mulai dari cara cepat kaya hingga teori-teori busuk yang dibungkus dengan kata sains atau agama. 
+Tentu, internet juga punya sisi hitam. Nyatanya, sejak akses informasi yang terbuka lebar, tidak semua orang berhasil menjadi Palgunadi. Bahkan, mungkin sedikit sekali orang yang berhasil (atau mungkin: ingin) menjadi Palgunadi. Internet juga melahirkan distraksi dan adiksi lewat sosial media, pornografi, informasi-informasi sampah, dan seterusnya. Belum lagi dengan "ilmu abal-abal" dari "Drona-drona palsu" dalam segala macam variannya: mulai dari cara cepat kaya hingga teori-teori busuk yang dibungkus dengan kata sains atau agama. 
 
-Di satu sisi, mudah sekali untuk menjadi Palgunadi. Di sisi lain, sulit sekali untuk menjadi Palgunadi. 
+Di satu sisi, mudah sekali untuk menjadi Palgunadi. Di sisi lain, sulit sekali untuk menjadi Palgunadi. Akan tetapi, kesempatan itu ada. Sumber daya itu ada. Waktu itu ada. Tinggal masalah kita-nya saja. 
 
-
+P.S. : sepertinya akan menarik kalau nanti bahas tentang tips-tips belajar otodidak lewat internet---soal nyari sumber, ngatur waktu, mem-*filter* infomrasi, dan lainnya---, mungkin akan dituliskan nanti. 
 
 
 

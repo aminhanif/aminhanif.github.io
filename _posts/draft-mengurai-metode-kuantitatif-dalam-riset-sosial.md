@@ -11,3 +11,5 @@ description:
 ---
 
 a devil advocate of things that could go wrong in quantitative study. 
+
+[Nassim Taleb's critique of using statistic]
