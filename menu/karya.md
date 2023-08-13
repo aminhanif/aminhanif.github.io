@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang Hanif
+title: Karya Hanif
 permalink: /karya-hanif
 
 ---
