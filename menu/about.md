@@ -8,8 +8,8 @@ permalink: /tentang-hanif
 Halo. Gua Hanif. Saat ini, gua sedang memfokuskan energi pada 2 hal: [menjadi kaya](https://nav.al/rich) dan [berkesenian](https://www.goodreads.com/en/book/show/60965426). 
 
 - Gua menerbitkan video edukasi [di sini](https://www.youtube.com/channel/UCx-pxdfOtPQslC2hDQzpMeg)
-- Gua menulis (juga) [di sini](https://www.hanifamin.com)
 - Gua berbicara soal apapun yang gua suka [di sini](https://open.spotify.com/show/4yN5THFZg99Ivt95eUno6y)
+- Tulisan-tulisan gua yang lain bisa dicek [di sini](/blog-lain)
 
 #### Ini blog apaan sih?
 
