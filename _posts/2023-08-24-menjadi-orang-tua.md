@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Tentang Keponakan-keponakan"
+title: "Menjadi Orang Tua"
 author: "Hanif" 
 categories: personal
 tags: [keponakan, orang tua]
 image: 
-permalink: tentang-keponakan
+permalink: menjadi-orang-tua
 description: Sedikit cerita tentang pengalaman gua berinteraksi dengan keponakan-keponakan yang masih bocah. 
 
 ---
