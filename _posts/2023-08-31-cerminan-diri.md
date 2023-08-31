@@ -10,9 +10,7 @@ description: bagaimana membaca Vagabond mendorong saya untuk menjawab pertanyaan
 
 ---
 
-*"How do you cultivate your wisdom?"* tanya Socrates. 
-
-Kisah Miyamoto Musashi dalam *Vagabond* <u>mengajak</u> saya untuk memikirkan pertanyaan tadi.<!--more--> 
+[*"How do you cultivate your wisdom?"*](https://youtu.be/Lhl51bZQlM8?si=JB3epe3JJ3JgwXOq) Kisah Miyamoto Musashi dalam [*Vagabond*](https://en.wikipedia.org/wiki/Vagabond_(manga)) <u>mengajak</u> saya untuk memikirkan pertanyaan tadi.<!--more--> 
 
 Pada satu *arc*, dalam perjalanannya melawan Inshun, Musashi merasakan satu hal: ada aura membunuh yang begitu intens pada musuh-musuhnya, juga pada orang-orang yang dianggapnya kuat. Sebelum disadarinya, berkat bantuan Pak Tua Ine'i, betapa semua itu  hanyalah cermin dari dirinya sendiri yang haus darah. 
 
