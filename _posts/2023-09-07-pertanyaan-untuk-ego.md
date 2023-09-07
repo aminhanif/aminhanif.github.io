@@ -10,7 +10,7 @@ description: Rentetan pertanyaan untuk ego.
 
 ---
 
-Rentetan pertanyaan untuk ego. <!--more-->
+*Rentetan pertanyaan untuk ego.* <!--more-->
 
 Seberapa sering kamu menjelaskan sesuatu supaya kelihatan keren alih-alih untuk memberikan pemahaman pada orang lain?
 
