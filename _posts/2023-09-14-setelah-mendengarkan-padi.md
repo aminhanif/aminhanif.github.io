@@ -26,27 +26,27 @@ Lirik-lirik dalam album ini berkutat soal cinta, dengan mudah pendengar menginte
 
 Sepotong bait favorit gua dalam "Semua Tak Sama":
 
-*Coba tuk melawan*
-*Getir yang terus kukecap*
-*Meresap ke dalam relung sukmaku*
+*Coba tuk melawan*<br>
+*Getir yang terus kukecap*<br>
+*Meresap ke dalam relung sukmaku*<br><br>
 
-*Apalah arti hidupku ini*
-*Memapahku dalam ketiadaan*
-*Sgalanya luruh lemah tak bertumpu*
-*Hanya bersandar pada dirimu*
+*Apalah arti hidupku ini*<br>
+*Memapahku dalam ketiadaan*<br>
+*Sgalanya luruh lemah tak bertumpu*<br>
+*Hanya bersandar pada dirimu*<br><br>
 
 Penggunaan frasa "me(kecap) getir", juga metafor "memapahku dalam ketiadaan" seketika membawa gua untuk mengimajinasikan lagu ini menjadi lebih besar dari sekadar kisah cinta romantis seorang laki-laki dan perempuan. Bukan cuma soal kehilangan orang yang berharga, tapi kehilangan makna dan alasan untuk menjalani hidup.
 
 Sepotong bait favorit lain dalam "Lain Dunia":
 
-*Kurasakan kuterlena di putihnya nuansa*
-*Yang kau lukis dalam pesona diri*
-*Sisi batinku sisi batinmu terpendam di alurnya*
-*Tak ada tegur sapa antara kita*
+*Kurasakan kuterlena di putihnya nuansa*<br>
+*Yang kau lukis dalam pesona diri*<br>
+*Sisi batinku sisi batinmu terpendam di alurnya*<br>
+*Tak ada tegur sapa antara kita*<br><br>
 
-*Media dunia membawa terbang tawa ceriamu*
-*Beruraikan nada rasa*
-*Terpendam dalam jiwa*
+*Media dunia membawa terbang tawa ceriamu*<br>
+*Beruraikan nada rasa*<br>
+*Terpendam dalam jiwa*<br><br>
 
 Sekilas, intinya cuma soal perpisahan. Tapi ditulis dengan puitis sekali! Dan nggak maksa. "Elo udah pergi" diekspresikan lewat "media dunia membawa terbang tawa ceriamu // beruraikan nada rasa". Duh, melankolis betul. 
 
