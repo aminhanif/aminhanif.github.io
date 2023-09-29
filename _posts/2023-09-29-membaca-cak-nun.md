@@ -10,6 +10,8 @@ description: Renungan singkat setelah (kembali) membaca esai-esai Cak Nun.
 
 ---
 
+Renungan singkat setelah (kembali) membaca esai-esai Cak Nun.  <!---more-->
+
 Setelah SMA, hari ini saya kembali *menemui* Cak Nun dalam sebuah periode ketika urusan-urusan dunia begitu menerbitkan resah. Terkulminasi dalam pertanyaan-pertanyaan soal: bagaimana nanti dapat pekerjaan? Dan kalau sudah dapat: bagaimana nanti punya pekerjaan tetap? Dan kalau sudah tetap: bagaimana punya jenjang karir yang konsisten dan aman? Dan kalau sudah berkarir: bagaimana punya simpanan yang cukup supaya hidup aman sampai delapan puluh tahun? Dan seterusnya, dan seterusnya, tak ada henti...
 
 Tentu ini bukan *satu-satu*-nya keresahan. Ia juga bercampur dalam kerinduan untuk bisa lepas dari semua keresahan itu dan *kembali*. Untuk lepas dari "roda-roda" yang menunggu untuk giliran kapan di atas--kapan di bawah. Untuk lepas dan hidup hanya sebagai "kerikil-kerikil" yang tenang, insignifikan dan statis. 
