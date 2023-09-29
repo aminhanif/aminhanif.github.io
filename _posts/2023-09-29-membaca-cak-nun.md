@@ -10,7 +10,7 @@ description: Renungan singkat setelah (kembali) membaca esai-esai Cak Nun.
 
 ---
 
-Renungan singkat setelah (kembali) membaca esai-esai Cak Nun.  <!---more-->
+*Renungan singkat setelah (kembali) membaca esai-esai Cak Nun.* <!--more-->
 
 Setelah SMA, hari ini saya kembali *menemui* Cak Nun dalam sebuah periode ketika urusan-urusan dunia begitu menerbitkan resah. Terkulminasi dalam pertanyaan-pertanyaan soal: bagaimana nanti dapat pekerjaan? Dan kalau sudah dapat: bagaimana nanti punya pekerjaan tetap? Dan kalau sudah tetap: bagaimana punya jenjang karir yang konsisten dan aman? Dan kalau sudah berkarir: bagaimana punya simpanan yang cukup supaya hidup aman sampai delapan puluh tahun? Dan seterusnya, dan seterusnya, tak ada henti...
 
