@@ -10,6 +10,8 @@ description: Sedikit refleksi tentang keluwesan Habib Ja'far dalam menyampaikan 
 
 ---
 
+*Sedikit refleksi tentang keluwesan Habib Ja'far dalam menyampaikan ilmu.* <!--more-->
+
 Tempo hari ketika sedang mengitari ruang buku di Perpusat, saya menemui buku karangan Habib Husein Ja'far dalam satu petak buku-buku keagamaan. Akhir-akhir ini, petak tersebut memang jadi tempat favorit: ada bacaan-bacaan soal Buddhisme dan sufisme yang belakangan bikin saya tertarik. Judul buku si Habib: "Seni Merayu Tuhan". Aromanya sudah sufistik sejak dari judul dan memang benar adanya setelah saya baca sampai habis. Di dalamnya, ia bicara soal cinta, cinta dan cinta. Isinya kumpulan esai yang enteng buat dibaca, yang buat saya adalah bagian-bagian dari satu argumen panjang soal mengapa (hanya) Tuhan (yang) pantas dicintai.  
 
 Kita bisa bicara panjang soal cinta. Mungkin kapan-kapan kalau diberi kesempatan. Di tulisan ini, refleksinya adalah terhadap Habib Ja'far dan keluwesannya dalam berilmu. 
