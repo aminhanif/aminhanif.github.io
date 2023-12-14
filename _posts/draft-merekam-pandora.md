@@ -35,3 +35,18 @@ Akhirnya drum dan bass terekam! Gua, Acop dan Hendra sampai di rumah Dabba sekit
 Lalu istirahat sebentar dan kami merekam *bass* sehabis maghrib. Acop mengambil *bass* baru-nya. Bermain dan... kacau. Hahahaha. Masalah *on tempo* lagi-lagi datang. Krezi. Sepertinya makan waktu 3 sampai 4 jam hanya untuk nge-*take* *bass*. Hampir sama dengan drum. Gua terus memantau, memberi semangat sambil ikut tertawa bareng Dabba ketika menemukan kesalahan. Rasanya seperti melihat perpeloncoan---dengan korbannya adalah Acop. Hahaha. Tentu gua *nervous*---*skill* gua nggak jauh beda dengan Acop dan minggu depannya bakal jadi giliran gua untuk *take rhytm*. Mesti latihan. Mesti latihan. 
 
 Di satu sisi, kalau berandai jadi produser, gua tidak akan se-perfeksionis Dabba. Kesalahan-kesalahan Acop akan gua biarkan. Off tempo sepersekian detik: ya sudahlah. Sound bass kurang bulet: biarkan saja. Mungkin karena itulah gua nggak punya bakat jadi musisi, apalagi produser. Akan tetapi, gua bersyukur Dabba mau nge-*push* kita sejauh ini. Biar bagaimanapun, dia rasanya nggak punya tanggung jawab untuk jadi "perfeksionis". Untuk capek-capek menghabiskan 3 jam ekstra (harusnya maghrib kita sudah kelar) mengurus soalan *recording* yang sebetulnya (kalau mau) bisa dia isi sendiri cuma dalam waktu 5 menit. Tapi dengan begini, kita jadi punya *benchmark* dan benar-benar disadarkan kalau Pandora's Dream memang *band* jelek. Hahaha. 
+
+**Sesi 3 : Sabtu, 11 November 2023**
+
+Sesi terakhir. Dua jam pertama dihabiskan untuk merekam *part* ritem gitar gua. Lagi-lagi... main *on tempo* susah! Tetapi sepertinya gua tidak separah Acop. Lalu kita lanjut dengan *take* vokal. Ternyata nggak ada kesulitan berarti. Gua mesti berterima kasih banyak pada Dabba yang mengusulkan perubahan kunci sejak awal. Yah, tentu saja suara gua sama sekali tidak merdu. Tapi setidaknya pas nyanyi nggak terlalu *off tempo* dan *off pitch*. Yah, kalau sedikit-sedikit keluar kita tinggal berlindung di balik kalimat: "yang penting *feel*-nya dapet". 
+
+*Overall*, sesi ini tidak punya kesulitan berarti. Acop merekam *lead* gitar dengan susah payah seperti biasa, tapi masih lancar-lancar saja. Merekam *backing* vokal pun ternyata tidak seribet itu. Yang paling gua ingat dari sesi ini justru kelegaan ketika semua akhirnya selesai. Yang kita tutup dengan makan-makan di sebuah *food court* pada malamnya. 
+
+Sisanya, tinggal menunggu Dabba melakukan *mixing* dan *mastering*.
+
+*******
+
+Bagaimana perasaan gua terhadap hasil "Dian Sastro"? Sulit untuk mendeskripsikannya. Tapi mungkin kata paling baik adalah "tenang". Agak aneh, sih. Setelah berkarya dan melihat karyanya jadi, gua malah merasa tenang. Yah, tidak ada euforia. Nol optimisme mengenai masa depan lagu ini: entah perkara ia didengarkan orang atau diliput media atau apapun. Juga nggak ada kecewa. Nggak ada perasaan "andai begini, andai begitu". Semuanya terasa *sudah seperti seharusnya*. Seperti sesuatu yang memang sudah seharusnya terlaksana. Seperti kelegaan ketika berak. Kotoran sudah keluar, hajat terlaksana. Tak ada lagi yang mengganjal. Pokoknya lega dan damai saja. 
+
+Yah, jadi begitulah sedikit cerita soal merekam "Dian Sastro". 
+
