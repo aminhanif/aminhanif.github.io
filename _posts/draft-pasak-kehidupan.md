@@ -2,7 +2,7 @@
 layout: post
 title: "Memilih Pasak dalam Hidup"
 author: "Hanif" 
-categories: pandora
+categories: 
 tags: 
 image: 
 permalink: 
@@ -10,4 +10,4 @@ description:
 
 ---
 
-teman yg baik, uang, karir, dll. atau... shalat?
+Ada banyak cara untuk hidup. 
