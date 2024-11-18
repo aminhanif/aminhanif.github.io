@@ -1,0 +1,28 @@
+---
+layout: default-nohead
+---
+
+<h1>
+  {{ page.title }} 
+</h1>
+
+<article>
+Hidup saya diwarnai dengan perjumpaan terhadap album musik yang keren, buku-buku penuh kesan, dan film yang
+membekas di hati. Tulisan-tulisan ini adalah sebentuk apresiasi saya terhadap mereka. 
+</article><br>
+
+{% for post in site.categories.ulasan karya %}
+<div class="posts-container">
+  <h2>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
+  <p class="post-excerpt">
+    {{ strip_html }} 
+    {% if post.excerpt %}
+      {{ post.excerpt }}
+    {% endif %}
+  </p>
+</div>
+{% endfor %}
+
+

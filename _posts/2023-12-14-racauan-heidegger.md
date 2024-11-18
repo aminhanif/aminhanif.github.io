@@ -2,7 +2,7 @@
 layout: post
 title: "Semacam Refleksi/Meditasi/Racauan terhadap Heidegger"
 author: "Hanif" 
-categories: renungan singkat, filsafat
+categories: [renungan singkat, filsafat]
 tags: heidegger, meracau
 image: 
 permalink: racauan-heidegger

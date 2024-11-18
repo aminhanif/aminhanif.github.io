@@ -2,7 +2,7 @@
 layout: post
 title: "Ditertawakan Seorang Sufi"
 author: "Hanif" 
-categories: 
+categories: psikologi
 tags: 
 image: 
 permalink: ditertawakan-seorang-sufi

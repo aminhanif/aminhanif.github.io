@@ -2,7 +2,7 @@
 layout: post
 title: "Pertanyaan Untuk Ego"
 author: "Hanif" 
-categories: renungan singkat
+categories: [psikologi, renungan singkat]
 tags: ego, refleksi
 image: 
 permalink: pertanyaan-untuk-ego

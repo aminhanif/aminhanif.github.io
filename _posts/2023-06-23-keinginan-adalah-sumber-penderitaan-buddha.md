@@ -2,7 +2,7 @@
 layout: post
 title: "Mencerna Maksud Buddha: Keinginan Adalah Sumber Penderitaan"
 author: "Hanif" 
-categories: filsafat
+categories: [psikologi, filsafat]
 tags: [keinginan]
 image: 
 permalink: keinginan-adalah-sumber-penderitaan-buddha

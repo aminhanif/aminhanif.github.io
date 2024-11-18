@@ -2,7 +2,7 @@
 layout: post
 title: "Catatan tentang Pendakian"
 author: "Hanif" 
-categories: personal, renungan singkat
+categories: [personal, renungan singkat]
 tags: sembalun, rinjani, savana propok
 image: 
 permalink: tentang-pendakian

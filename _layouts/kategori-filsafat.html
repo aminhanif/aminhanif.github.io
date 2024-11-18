@@ -1,0 +1,29 @@
+---
+layout: default-nohead
+---
+
+<h1>
+  {{ page.title }} 
+</h1>
+
+<article>
+  Filsafat adalah samudera yang sangat luas, yang saking luasnya bisa mencakup "segala hal". Secara umum, 
+  tulisan di sini adalah bahasan (agak) panjang yang berkutat pada ketertarikan saya terkait batas-batas
+  pengetahuan, persoalan makna, spiritualitas dan pencarian "hidup yang baik".
+</article><br>
+
+{% for post in site.categories.filsafat %}
+<div class="posts-container">
+  <h2>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
+  <p class="post-excerpt">
+    {{ strip_html }} 
+    {% if post.excerpt %}
+      {{ post.excerpt }}
+    {% endif %}
+  </p>
+</div>
+{% endfor %}
+
+

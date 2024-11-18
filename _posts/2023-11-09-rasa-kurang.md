@@ -2,7 +2,7 @@
 layout: post
 title: "Mengelola Rasa Kurang"
 author: "Hanif" 
-categories: renungan singkat
+categories: [psikologi, renungan singkat]
 tags: kekurangan, keinginan
 image: 
 permalink: mengelola-rasa-kurang

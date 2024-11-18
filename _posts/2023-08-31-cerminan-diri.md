@@ -2,7 +2,7 @@
 layout: post
 title: "Cerminan Diri dan Mengukir Kebijaksanaan"
 author: "Hanif" 
-categories: renungan singkat
+categories: [psikologi, renungan singkat]
 tags: kebijaksanaan, socrates, vagabond
 image: 
 permalink: kebijaksanaan-dan-cerminan-diri

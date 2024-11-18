@@ -2,7 +2,7 @@
 layout: post
 title: "Jalan Memutar"
 author: "Hanif" 
-categories: 
+categories: filsafat
 tags: 
 image: 
 permalink: jalan-memutar

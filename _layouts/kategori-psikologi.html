@@ -1,0 +1,28 @@
+---
+layout: default-nohead
+---
+
+<h1>
+  {{ page.title }} 
+</h1>
+
+<article>
+  Kumpulan refleksi terhadap (sebagian besar) keadaan psikologis di dalam diri saya sendiri. Sebagai upaya untuk
+  meneliti, mengapresiasi dan mengeksplorasi gejolak dan "pasang-surut" yang hadir di dalam pikiran. 
+</article><br>
+
+{% for post in site.categories.psikologi %}
+<div class="posts-container">
+  <h2>
+    <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
+  <p class="post-excerpt">
+    {{ strip_html }} 
+    {% if post.excerpt %}
+      {{ post.excerpt }}
+    {% endif %}
+  </p>
+</div>
+{% endfor %}
+
+
