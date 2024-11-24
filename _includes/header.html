@@ -1,7 +1,13 @@
 <header class="header">
-  <h3 class="header-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+  {% if page.title == "Home" %}
+  <h1>Hanif</h1>
     <small class="header-subtitle">{{ }}</small>
     {% include menu.html %}
-  </h3>
+  </p>
+    {% else %}
+    <p>
+      <b><a href="{{ site.github.url }}/">Blog oleh {{ site.title }}</a></b>
+      {% include menu.html %}
+  </p>
+  {% endif %}
 </header>

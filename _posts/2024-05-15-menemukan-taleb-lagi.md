@@ -2,7 +2,7 @@
 layout: post
 title: "Menemukan Taleb (Lagi)"
 author: "Hanif" 
-categories: renungan singkat
+categories: [renungan singkat, lainnya]
 tags: taleb, black swan, antifragile
 image: 
 permalink: menemukan-taleb-lagi

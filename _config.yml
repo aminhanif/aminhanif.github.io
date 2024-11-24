@@ -27,7 +27,7 @@ plugins:
       
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Hanif'
-description:	       ''
+description:	       'Blog oleh Hanif'
 author:              'Hanif'
 timezone:            
 

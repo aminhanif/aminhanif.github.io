@@ -19,7 +19,7 @@
     {% endfor %}
 
     {% for category in page.categories %}
-      {% for mypost in site.categories[category] %}
+      {% for mypost in site.categories[category] limit: 4%}
         {% if listed_posts_urls contains mypost.url %}
         {% else %}
           <li>

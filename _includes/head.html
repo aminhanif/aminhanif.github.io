@@ -3,10 +3,17 @@
     {% if page.title == "Home" %}
       {{ site.title }}
     {% else %}
-      {{ page.title }} | {{ site.title }}
+      {{ page.title }}
     {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:locale" content="id_ID" />
+  {% if page.title == "Home" %}<meta property="og:title" content="Hanif" />
+  <meta property="og:description" content="Blog ditulis oleh Hanif">
+  {% else %}<meta property="og:description" content="{{ page.description }}">
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />{% endif %}
+  <meta property="og:url" content="https://aminhanif.github.io{{ page.url }}" />
   <meta charset="utf-8">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
@@ -38,5 +45,4 @@
   gtag('config', 'G-33LWZVJY9E');
   </script>
   <!-- Use Jekyll SEO plugin -->
-  {% seo %}
 </head>

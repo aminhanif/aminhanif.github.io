@@ -2,7 +2,7 @@
 layout: post
 title: "Gus Baha dan Robustness"
 author: "Hanif" 
-categories: 
+categories: renungan singkat
 tags: 
 image: 
 permalink: gus-baha-dan-robustness
