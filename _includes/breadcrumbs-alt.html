@@ -1,4 +1,4 @@
-<b>breadcrumbs:</b>
-{% for category in page.categories %}
-<p>{{site.title}} >> {{ category }} >> {{ page.title }}</p> 
-{% endfor %}
+<b>kategori: </b>
+{%- for category in page.categories %}
+<a href="{{ category }}">{{category}} |</a>
+{%- endfor -%}
