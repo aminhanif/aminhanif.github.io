@@ -1,4 +1,16 @@
-**Memasak Kesadaran**
+---
+layout: post
+title: "Memasak Kesadaran"
+author: "Hanif" 
+categories: [renungan singkat]
+tags: stoik, marcus aurelius, kesadaran
+image: 
+permalink: memasak-kesadaran
+description: Renungan singkat soal mengelola kesadaran jadi kebijaksanaan untuk menjalani hidup dengan seimbang.
+
+---
+
+*Renungan singkat soal mengelola kesadaran jadi kebijaksanaan untuk menjalani hidup dengan seimbang.* <!--more-->
 
 “Sadarlah,” kata Marcus Aurelius, “terhadap keadaan jiwamu saat ini.” Apakah ia sedang bergelora dalam nafsu binatang? Atau dalam keadaan terkendali akal dan nurani?
 
