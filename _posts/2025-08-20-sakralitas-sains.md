@@ -10,11 +10,11 @@ description:
 
 ---
 
-Kita hidup di dunia yang makin menjauh dari sakralitas. <!--more--> Katanya, segala yang terjadi sesungguhnya cuma gerakan atom-atom yang tunduk terhadap hukum alam: tak lebih dan tak kurang. Segala fenomena supranatural——yang dianggap tidak tunduk pada hukum alam——satu demi satu dibuktikan palsu. Kita bersorak melihat para dukun santet ditantang dan tak berkutik. Kita bersorak melihat rumah-rumah berhantu didatangi lantas ditertawakan karena tak bisa bikin si pengunjung kesurupan atau ketakutan barang sedikitpun. 
+Kita hidup di dunia yang makin menjauh dari sakralitas. <!--more--> Katanya, segala yang terjadi sesungguhnya cuma gerakan atom-atom yang tunduk terhadap hukum alam: tak lebih dan tak kurang. Segala fenomena supranatural---yang dianggap tidak tunduk pada hukum alam---satu demi satu dibuktikan palsu. Kita bersorak melihat para dukun santet ditantang dan tak berkutik. Kita bersorak melihat rumah-rumah berhantu didatangi lantas ditertawakan karena tak bisa bikin si pengunjung kesurupan atau ketakutan barang sedikitpun. 
 
 Tapi apakah selanjutnya kita akan bersorak ketika malaikat dibuktikan tak ada? Apakah selanjutnya kita akan bersorak ketika mukjizat nabi-nabi ternyata hanya cerita karangan bangsa-bangsa kuno? Apakah selanjutnya kita akan bersorak ketika kebaikan dan kejahatan dianggap ilusi hasil evolusi semata? Apakah selanjutnya kita akan bersorak karena Tuhan (ya, Tuhan) dibuktikan tak lebih dari sekadar mitos pengejawantahan ketidaktahuan manusia sepanjang milenia?
 
-Di mana yang gaib? Hilang, lebur, hancur——karena dari awal memang tak pernah ada. Dulu ia berguna: Mikail mengisi kekosongan pengetahuan kita tentang turunnya hujan, Raqib dan Atid mengisi kekosongan hukum positif dan keberadaan Pak Polisi yang Baik Hati. Tapi sekarang kita sudah punya sains yang menyingkap dunia setelanjang-telanjangnya lewat hukum-hukum alam yang digarap oleh Newton, Heisenberg, Einstein, Darwin, dan kawan-kawan. Lalu teknologi (yang sudah dan akan terus berkembang!) menjadi alat-alat yang membentuk dunia itu sesuka hati selayak jari-jemari membentuk plastisin. 
+Di mana yang gaib? Hilang, lebur, hancur---karena dari awal memang tak pernah ada. Dulu ia berguna: Mikail mengisi kekosongan pengetahuan kita tentang turunnya hujan, Raqib dan Atid mengisi kekosongan hukum positif dan keberadaan Pak Polisi yang Baik Hati. Tapi sekarang kita sudah punya sains yang menyingkap dunia setelanjang-telanjangnya lewat hukum-hukum alam yang digarap oleh Newton, Heisenberg, Einstein, Darwin, dan kawan-kawan. Lalu teknologi (yang sudah dan akan terus berkembang!) menjadi alat-alat yang membentuk dunia itu sesuka hati selayak jari-jemari membentuk plastisin. 
 
 Kelaparan, pemanasan global, polusi, depresi, perang nuklir, dan segala macam masalah yang muncul belakangan? Tenang saja. Duduklah diam dan tunggu ilmuwan-ilmuwan *top notch* di belahan dunia sana menemukan formula mutakhir untuk memperbaiki semuanya. Teknologi baru, sistem pemerintahan baru, produk hukum baru, yang akan menyelesaikan semua keruwetan ini menuju kemajuan peradaban yang tak pernah terbayangkan sebelumnya.
 
@@ -26,9 +26,9 @@ Sebagai bagian dari orang-orang beragama, saya merasakan adanya desakan zaman un
 
 Kita juga butuh teknologi untuk melawan penindasan. Lihatlah apa yang terjadi di Palestina dan betapa kita menggigil karena hanya bisa menyaksikan kekejaman tanpa banyak kekuatan untuk mengirim rudal ke wilayah setan-setan dan sekalian bajingan yang tega-teganya menyiksa manusia dengan sebegitu sadisnya. 
 
-Saya setuju, setuju betul dengan semua itu. Tapi, makin saya dalami sains dalam bentuknya yang modern, makin saya ragu apakah ia bisa kawin dengan agama——terutama aspek spiritual di dalamnya. 
+Saya setuju, setuju betul dengan semua itu. Tapi, makin saya dalami sains dalam bentuknya yang modern, makin saya ragu apakah ia bisa kawin dengan agama---terutama aspek spiritual di dalamnya. 
 
-Suka tidak suka, sains modern bukan hanya observasi yang *innocent* terhadap alam.  Di dalamnya melekat suatu aksioma——kepercayaan yang dipegang teguh—— terhadap suatu pandangan dunia (*world view*) yang materialistis dan kuantitatif. Yaitu semacam pemahaman bahwa segala fenomena di dunia bisa direduksi kepada pergerakan benda-benda (yang dibentuk oleh unit materi paling dasar seperti proton, neutron dan bahkan lebih kecil lagi). Materi-materi ini bergerak tunduk oleh hukum alam yang tetap dan pasti.[^1] 
+Suka tidak suka, sains modern bukan hanya observasi yang *innocent* terhadap alam.  Di dalamnya melekat suatu aksioma——kepercayaan yang dipegang teguh---terhadap suatu pandangan dunia (*world view*) yang materialistis dan kuantitatif. Yaitu semacam pemahaman bahwa segala fenomena di dunia bisa direduksi kepada pergerakan benda-benda (yang dibentuk oleh unit materi paling dasar seperti proton, neutron dan bahkan lebih kecil lagi). Materi-materi ini bergerak tunduk oleh hukum alam yang tetap dan pasti.[^1] 
 
 Materialisme itu sangat seksi. Bersama dengan logika, model saintifik, dan matematika, ia menyediakan “kunci ilmu pengetahuan”. Kunci yang darinya *semua hal* bisa diketahui. Setidaknya, begitulah kelihatannya. Begitulah *janjinya*. Lewat materialisme-saintifik, akar dari kenyataan adalah benda-benda yang tunduk pada hukum alam. Hukum alam pada gilirannya bisa diekspresikan lewat logika dan matematika. Maka, semua fenomena bisa dijelaskan melalui *narasi* ini. 
 
@@ -38,7 +38,7 @@ Materialisme itu sangat seksi. Bersama dengan logika, model saintifik, dan matem
 
 Dan jangan lupa kalau otak adalah benda yang ujung-ujungnya terdiri atas kumpulan sel yang terdiri atas kumpulan atom. Dan atom tunduk pada hukum alam. Maka, *semua hal* berujung pada konfigurasi kebendaan atom yang diatur oleh hukum alam dan bisa diukur secara matematis dan logis. 
 
-Meminjam kata Nietszche: “Tuhan telah mati”——dan di dalam tanah pekuburan-Nya terbawa pula segala yang spiritual, sakral, mistis. 
+Meminjam kata Nietszche: “Tuhan telah mati”---dan di dalam tanah pekuburan-Nya terbawa pula segala yang spiritual, sakral, mistis. 
 
 Dengan materialisme-saintifik, kita berikrar bahwa kasih sayang seorang ibu dan kesyahduan ibadah dan gugusan bintang-gemintang di langit yang seolah menghentikan waktu *sesungguhnya* hanyalah suatu konfigurasi atom yang tunduk pada hukum alam yang matematis dan logis. **Begitulah kenyataan.** 
 
@@ -72,7 +72,7 @@ Kalau dipikir-pikir, materialisme-saintifik dengan bifurkasinya adalah semacam p
 
 Sebagaimana kutipan dari Wolfgang Smith:
 
-*What is the physical universe? We are told that it consists of space, time, and matter, or of space-time and energy, or perhaps of something else still more abstruse and even less imaginable, but in any case we are told in unequivocal terms what it excludes: as all of us have learnt, the physical universe is said to exclude just about everything which from the ordinary human point of view makes up the world. Thus it excludes the blueness of the sky and the roar of breaking waves, the fragrance of flowers and all the innumerable qualities——half-perceived and half-intuited——that lend color, charm and meaning to our terrestrial and cosmic environment. In fact, it  excludes everything that can be imagined or conceived, except in abstract mathematical terms.* 
+*What is the physical universe? We are told that it consists of space, time, and matter, or of space-time and energy, or perhaps of something else still more abstruse and even less imaginable, but in any case we are told in unequivocal terms what it excludes: as all of us have learnt, the physical universe is said to exclude just about everything which from the ordinary human point of view makes up the world. Thus it excludes the blueness of the sky and the roar of breaking waves, the fragrance of flowers and all the innumerable qualities---half-perceived and half-intuited---that lend color, charm and meaning to our terrestrial and cosmic environment. In fact, it  excludes everything that can be imagined or conceived, except in abstract mathematical terms.* 
 
 ***
 
