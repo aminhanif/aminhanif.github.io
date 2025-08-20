@@ -106,6 +106,8 @@ Saya meniatkan tulisan ini sebagai sekeping perenungan saja; tapi lama-lama mala
 
 “materialisme adalah alat utama Dajjal dan Iblis untuk memperdaya Anda”.
 
+**Catatan Kaki**
+
 [^1]: Pembacaan saya lebih lanjut menunjukkan hal menarik: bahwa banyak saintis top yang justru lepas dari anggapan ini. Mereka punya sofistikasi yang tinggi. Semisal Heisenberg, dedengkot fisika kuantum yang berkata: “*if one can speak of a world-view (Naturbild) of the exact sciences in our time, this actually refers no longer to a view of Nature, but to a view of our relationship to Nature*”. Akan tetapi, secara implisit maupun eksplisit, begitulah pemahaman saintifik yang dibentuk terutama di perguruan tinggi, digaungkan oleh banyak intelektual publik, dan merasuk pada “konten-konten sains” di budaya populer kita.  
 
     
