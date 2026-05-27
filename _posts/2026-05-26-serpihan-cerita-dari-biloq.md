@@ -17,7 +17,7 @@ Dan pesan Mamiq Agus: tidak ada yang kebetulan. Maka pengalaman di Biloq adalah 
 
 ***
 
-Mulanya adalah ajakan Ustad Atqiya, seorang guru di sekolah tempat saya bekerja. Siang itu ia baru pulang dari Bayan[^1] mengantar anak-anak kelas 10 yang akan menghabiskan dua pekan mereka untuk _live in_ di sana. Kami berpapasan di bawah tangga ruang Rafiah, saling tersenyum sebagaimana biasa, dan ia langsung saja berceloteh:
+Mulanya adalah ajakan Ustadz Atqiya, seorang guru di sekolah tempat saya bekerja. Siang itu ia baru pulang dari Bayan[^1] mengantar anak-anak kelas 10 yang akan menghabiskan dua pekan mereka untuk _live in_ di sana. Kami berpapasan di bawah tangga ruang Rafiah, saling tersenyum sebagaimana biasa, dan ia langsung saja berceloteh:
 
 "_Side_ mau ikut maulid adat, Pak Hanif?"
 
@@ -35,17 +35,17 @@ Penjelasan Mamiq adalah sesuatu yang sepenuhnya baru untuk saya. Juga ada yang l
 
 ***
 
-Titik kumpul menuju Biloq adalah rumah Mamiq di Ampenan. Saya berangkat bersama Ustad Atqiya, menjemputnya di Udayana sambil terbengong-bengong melihat ranselnya yang penuh. Istrinya yang mengantar berceletuk: "ndak bawa barang, Pak Hanif?"
+Titik kumpul menuju Biloq adalah rumah Mamiq di Ampenan. Saya berangkat bersama Ustadz Atqiya, menjemputnya di Udayana sambil terbengong-bengong melihat ranselnya yang penuh. Istrinya yang mengantar berceletuk: "*ndak* bawa barang, Pak Hanif?"
 
 Dan di situlah saya baru tahu: kami akan menginap semalam di Biloq. Maulidnya kan berlangsung semalam suntuk, bahkan berlanjut juga keesokan harinya. Dan kalaupun mau pulang tengah malam, baiknya tentu bermalam terlebih dahulu untuk tidur memulihkan tenaga. Maka perjalanan ke Mamiq saya mulai dengan mengutuk kebodohan diri sendiri sembari menghabiskan sisanya dengan membuat skenario minta izin ke pihak sekolah supaya Senin bisa dibolehkan tak masuk, juga memikirkan tambahan perlengkapan untuk menginap.
 
 Kami akhirnya datang di rumah Mamiq hampir bersamaan dengan Bang Akmal, sesama murid di kelas aksara. Baru saya pahami kalau Bang Ical rupanya berangkat sendiri pakai motor. Dan, rupanya yang lain, teman perjalanan Mamiq bukan hanya saya dan Ustadz Atqiya, melainkan beberapa muridnya yang lain: Bang Akmal, Prof Nuryadi, Pak Awan, dan Pak Arul.
 
-Kami habiskan 15 menit pertama hanya dengan obrol-obrol santai. Mamiq menyuguhkan kopi, Bang Akmal menyuguhkan kacang, dan murid yang lain rupanya belum pada datang. Sambilan saya menghubungi Ibu Wakil Kepala Kurikulum di madrasah: izin aman (untungnya esok hari tak ada jadwal mengajar). Sepintas tak ada hawa keterburu-buruan di udara, maka saya beranikan mohon izin untuk pulang sebentar mem-_packing_ barang. Mamiq kasih izin sambil tertawa kecil mendengar cerita kesalahsangkaan saya dan berangkatlah akhirnya secepat kilat, diiringi omelan Mama sesampainya di rumah, dan kembali sampai dengan ransel yang sudah penuh diisi jaket sampai chiki-chikian pengobat lapar.
+Kami habiskan 15 menit pertama hanya dengan obrol-obrol santai. Mamiq menyuguhkan kopi, Bang Akmal menyuguhkan kacang, dan murid yang lain rupanya belum pada datang. Sambilan saya menghubungi Ibu Wakil Kepala Kurikulum di madrasah: izin aman (untungnya esok hari tak ada jadwal mengajar). Sepintas tak ada hawa keterburu-buruan di udara, maka saya beranikan mohon izin untuk pulang sebentar mem-*packing* barang. Mamiq kasih izin sambil tertawa kecil mendengar cerita kesalahsangkaan saya dan berangkatlah akhirnya secepat kilat, diiringi omelan Mama sesampainya di rumah, dan kembali sampai dengan ransel yang sudah penuh diisi jaket sampai chiki-chikian pengobat lapar.
 
 Tak lama kami akhirnya berangkat. Biloq berjarak cukup jauh dari Mataram, sekitar 88 kilometer. Maka perjalanan tidak sebentar, dimulai sekitar pukul sebelas dan baru sampai sekitar pukul tiga sore.
 
-Kecuali untuk Pak Awan yang malang (dompetnya jatuh dan hilang ketika istirahat shalat zuhur di masjid), sepanjang jalan adalah waktu yang mengasyikkan. Hutan pusuk sepanjang kelokan panjang menumbuhkan adem di hati, juga Bayan dan masjid kuno dan kerumunan orang-orang di sekitarnya, juga pembicaraan panjang ngalor ngidul dengan Ustad Atqiya terkait bisnis es krim duriannya.
+Kecuali untuk Pak Awan yang malang (dompetnya jatuh dan hilang ketika istirahat shalat zuhur di masjid), sepanjang jalan adalah waktu yang mengasyikkan. Hutan Pusuk sepanjang kelokan panjang menumbuhkan adem di hati, juga Bayan dan masjid kuno dan kerumunan orang-orang di sekitarnya, juga pembicaraan panjang ngalor ngidul dengan Ustadz Atqiya terkait bisnis es krim duriannya.
 
 Hingga akhrnya kami memasuki jalan beraspal menuju desa Biloq dan berhenti pada sebuah masjid. Bang Ical rupanya sudah lebih dulu sampai: duduk di masjid mengenakan kaos dan _sapuq_[^2] yang sama-sama berwarna hitam (kombinasi fesyen yang rasanya tak pernah ia tinggalkan dalam bulan-bulan terakhir). Senyumnya yang khas menyambut kami--matanya akan menyipit sembari bibirnya terbuka menampakkan gigi dalam kadar secukupnya.
 
@@ -63,9 +63,9 @@ Sementara hidangan terus terhidang bertubi-tubi. Ubi goreng dengan taburan garam
 
 Deskripsi yang menurut saya sangat pas soal hidangan-hidangan ini dilontarkan oleh Bang Ical. Katanya, "pengejewantahan _semaiq_[^3] dalam hal cita rasa, ya, ada di makanan ini."
 
-\*\*\*
+***
 
-Isya sudah lewat cukup lama ketika akhirnya kami beranjak dari berugaq, berjalan kaki menuju tempat maulid terlaksana. Rupanya tak jauh: hanya beberapa puluh meter. Saya sedikit gugup: mungkin karena malam, mungkin karena sayup-sayup gamelan, mungkin karena yang lain. Saya sempatkan buang air kecil, kemudian memasang ulang _bebet_[^4] dan _sapuq_. Pesan Mamiq Agus: jangan melihat apa yang tampak oleh mata (tak ada yang spesial di sana), melainkan amati apa yang terjadi di dalam hati.
+Isya sudah lewat cukup lama ketika akhirnya kami beranjak dari berugak, berjalan kaki menuju tempat maulid terlaksana. Rupanya tak jauh: hanya beberapa puluh meter. Saya sedikit gugup: mungkin karena malam, mungkin karena sayup-sayup gamelan, mungkin karena yang lain. Saya sempatkan buang air kecil, kemudian memasang ulang _bebet_[^4] dan _sapuq_. Pesan Mamiq Agus: jangan melihat apa yang tampak oleh mata (tak ada yang spesial di sana), melainkan amati apa yang terjadi di dalam hati.
 
 Ya, sejak awal sudah ditekankan: maulid di Biloq bukan festival budaya. Tidak ada perayaan atau upaya bersolek sehingga turis-turis macam saya dibuat berdecak kagum (dan memang hampir tidak ada orang luar Biloq yang ikut datang). Mata tak akan dimanjakan dengan pertunjukan yang menyita perhatian. Biloq tak punya pretensi untuk menjadikan ini bahan tontonan. Kalau mau memeroleh sesuatu, kitalah yang mesti bekerja keras. Menata hati, menjernihkan telaga di dalamnya agar tak terganggu riak sendiri, kemudian jadilah ia cermin yang menangkap Cahaya--utuh. Menyambutnya bersama-sama dengan orang-orang Biloq.
 
@@ -73,11 +73,11 @@ Maka sambil berusaha menghayati kata-kata Mamiq kita memulai keberangkatan, dan 
 
 ***
 
-Rupanya tempat maulid sudah ramai dengan orang-orang desa. Akhirnya tampaklah selapis gamelan dan sebuah gendang yang daritadi terdengar sayup, keduanya dimainkan di atas berugaq besar yang diduduki banyak orang. Sungguh sederhana: alat musik hanya dua, nada dasar hanya dua. Satu-satunya kompleksitas menyembur dari gendang yang ditabuh dengan rancak dan ketukan yang berbeda-beda polanya.
+Rupanya tempat maulid sudah ramai dengan orang-orang desa. Akhirnya tampaklah selapis gamelan dan sebuah gendang yang sejak tadi terdengar sayup, keduanya dimainkan di atas berugak besar yang diduduki banyak orang. Sungguh sederhana: alat musik hanya dua, nada dasar hanya dua. Satu-satunya kompleksitas menyembur dari gendang yang ditabuh dengan rancak dan ketukan yang berbeda-beda polanya.
 
 Dan rasanya memang kesederhanaan itulah yang membawa magis. Kata Mamiq Agus, "makin banyak not, akan makin profan jadinya." Dan saya jadi terpekur dibuatnya.
 
-Sementara di seberang _berugaq_ terlihat para perempuan sedang menumbuk padi di dalam _rantoq_[^5] menggunakan tongkat-tongkat panjang--bagian dari ritus maulid. Dan kami duduk di beranda sebuah rumah yang terletak tepat di depan _berugaq_, disambut beberapa orang. Rupanya, rumah itu milik almarhum Lokaq Dar[^6] yang telah meninggal dunia.
+Sementara di seberang berugak terlihat para perempuan sedang menumbuk padi di dalam _rantoq_[^5] menggunakan tongkat-tongkat panjang--bagian dari ritus maulid. Dan kami duduk di beranda sebuah rumah yang terletak tepat di depan berugak, disambut beberapa orang. Rupanya, rumah itu milik almarhum Lokaq Dar[^6] yang telah meninggal dunia.
 
 Kembali hanya duduk, bicara, mengamati sekitar, menghayati musik, mendengarkan Mamiq, menyesap kopi dan menandaskan cemilan yang tersaji. Saya tak beranjak dari beranda: diam saja mengamati sembari diam-diam iri dengan beberapa teman yang sudah keluar dan sepertinya terlihat membaur dan ngobrol dengan siapa saja di sana.
 
@@ -145,7 +145,7 @@ Entah berapa lama kemudian, saya telah kehilangan jejak waktu, Mamiq beranjak pe
 
 Mamiq masuk lebih dulu ke dalam rumah. Ustadz Atqiya, Bang Akmal, dan Bang Ical masuk menyusul satu persatu. Ada ember berisi air yang dipakai untuk mencuci kaki, sebelum sang _lokaq_ menyilakan untuk masuk. Ah, sepertinya inilah puncaknya: penyambutan Cahaya.
 
-Saya sempat mencuci kaki namun rupanya tak ada persilaan masuk. Maka diam saja menunggu di luar bersama seorang kawan. Tersirat satu pertanyaan: mengapa _ndak_ dikasih masuk? Dan rasa penasaran atas apa yang terjadi di dalam ruangan muncul begitu halus.
+Saya sempat mencuci kaki namun rupanya tak ada persilaan masuk. Maka diam saja menunggu di luar bersama seorang kawan. Tersirat satu pertanyaan: mengapa *ndak* dikasih masuk? Dan rasa penasaran atas apa yang terjadi di dalam ruangan muncul begitu halus.
 
 Yang terdengar hanya sayup suara "silaq[^9]… silaq…" seiring bacaan Qur'an dengan langgam yang asing. Kemudian "silaq…" kembali. Dan bermacam suara sayup yang tak mampu tertangkap oleh telinga.
 
@@ -155,7 +155,7 @@ Ya, tak ada pencerahan malam ini. Tak ada tabir rahasia terungkap kecuali lumpur
 
 ***
 
-Entah mengapa, di akhir perjumpaan, saya mengucap "tunas[^11] maaf" kepada _pengulu_. Begitu saja ia muncul di bibir. Saya raih punggung tangannya, menciumnya.
+Entah mengapa, di akhir perjumpaan, saya mengucap "tunas[^11] maaf" kepada _lokaq_. Begitu saja ia muncul di bibir. Saya raih punggung tangannya, menciumnya.
 
 Biloq memang tak punya pretensi. Hanya dari orang-orangnya menguar keramahan dan kesejukan yang membuat damai mengembang di hati. Saya tak bisa bahasa Sasak dan hampir setiap saat hanya mengandalkan senyum malu-malu dan kikuk sebagai alat komunikasi. Tapi keramahan itu terasa. Pada wajah ramah beserta kemurahan hati mereka untuk menerima, menyediakan tempat bernaung, memberikan makan-minum tanpa perhitungan.
 
