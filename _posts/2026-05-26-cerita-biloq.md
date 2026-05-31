@@ -5,7 +5,7 @@ author: "Hanif"
 categories: [personal]
 tags: [biloq, maulid adat]
 image: 
-permalink: serpihan-cerita-dari-biloq
+permalink: cerita-biloq
 description: 
 
 ---
