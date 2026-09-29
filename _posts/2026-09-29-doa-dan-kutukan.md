@@ -14,13 +14,13 @@ Hari-hari ini saya sedang gandrung mencerna dawuh-dawuh Pak Iskandar Waworuntu d
 
 "Kita terperangkap dengan sebuah paradigma bahwa energi datang dari (sesuatu yang) *tangible*, sesuatu yang bisa dihitung dalam batasan pengetahuan kita (protein, karbohidrat, dan lainnya) ... kita nggak pernah memperhitungkan bahwa di belakang itu ada sumber energi yang jauh lebih vital--alam non wujud inilah yang sebenarnya berperan." 
 
-Kemudian kamera mengarahkan kita pada sebuah pohon cabe yang berbuah ranum dan ia mempertegas apa yang dimaksudnya sebagai sumber energi yang tak wujud, tak terhitung tersebut. 
+Kemudian kamera mengarahkan kita pada sebuah pohon cabe yang berbuah ranum dan Pak Iskandar mempertegas apa yang dimaksudnya sebagai sumber energi yang tak wujud, tak terhitung tersebut. 
 
 "Istilahnya doa-nya si cabe ini, lah. Barokahnya si cabe. Itu 85 persen yang memengaruhi tubuh kita, dan yang dilakukan oleh industri adalah menghancurkan 85 persen tersebut. Bahkan yang 15 persen (energi *tangible* berupa protein, vitamin, dan sebagainya) juga dihancurkan."
 
 Saya tertegun. Betapa gema semacam itu pernah dilontarkan pula oleh guru saya pada suatu malam yang sejuk. Betapa ia menyentuh, dalam. 
 
-Ya, betapa keberkahan itu hilang saat ini. Bagaimana kita mau mengharap berkah dari telur-telur yang kita makan--sementara ayam-ayam yang menghasilkannya seumur hidupnya bersempit-sempit dalam ruang gerak yang tak lebih luas dari kertas A4? Bagaimana kita mau mengharap berkah dari sayur-mayur yang pertumbuhannya disokong racikan-racikan kimia yang merusak tanah dan serangga-serangga (yang seharusnya juga punya hak untuk berkehidupan)? Bagaimana kita mau mengharap berkah dari coklat dan es krim yang dihasilkan dari peluh buruh-buruh yang bekerja tanpa upah layak?
+Ya, betapa keberkahan itu hilang saat ini. Bagaimana kita mau mengharap berkah dari telur-telur yang kita makan--sementara ayam-ayam yang menghasilkannya seumur hidupnya bersempit-sempit dalam ruang gerak yang tak lebih luas dari kertas A4? Bagaimana kita mau mengharap berkah dari sayur-mayur yang pertumbuhannya disokong racikan-racikan kimia yang merusak tanah dan serangga-serangga (yang juga punya hak untuk berkehidupan)? Bagaimana kita mau mengharap berkah dari coklat dan es krim yang dihasilkan dari peluh buruh-buruh yang bekerja tanpa upah layak?
 
 Harus diakui: sebagian besar makanan kita lahir dari sistem industrial atau *mass production* yang dalam prosesnya terjadi banyak kezaliman, penindasan, terhadap makhluk lain. Alih-alih mendoakan, barangkali makhluk-makhluk itu justru melaknat kita. Mengutuk. Dan tidakkah Tuhan mendengar rintihan mereka-mereka yang tertindas? Dan kita terus bertanya bagaimana sebab rebaknya diabetes, kecemasan, dan ragam penyakit fisik-psikis hari-hari ini. 
 
