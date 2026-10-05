@@ -10,7 +10,7 @@ description: Tentang Umbu Landu Paranggi yang jatuh cinta.
 
 ---
 
-Malam itu pukul sembilan dan Umbu Landu Paranggi, penyair legendaris itu, baru saja tiba di Malang. Sejak sore ia telah diantar muridnya, Emha Ainun Nadjib, berangkat dari Jogja menggunakan bus. Di Malang, tujuannya adalah bertemu seorang perempuan--atau begitu pikir Emha yang tahu betul kalau gurunya sedang *kesengsem*. 
+Malam itu pukul sembilan dan Umbu Landu Paranggi, penyair legendaris itu, baru saja tiba di Malang.<!--more--> Sejak sore ia telah diantar muridnya, Emha Ainun Nadjib, berangkat dari Jogja menggunakan bus. Di Malang, tujuannya adalah bertemu seorang perempuan--atau begitu pikir Emha yang tahu betul kalau gurunya sedang *kesengsem*. 
 
 Begitulah akhirnya Umbu menyusuri Tugu dan turun di depan sebuah gang di Perkampungan Pahlawan. Ia berjalan kaki menyusuri gang sebelum berbelok ke Jalan Diponegoro. Di jalan itulah, di sebuah rumah dengan nomor alamat tiga, bertempat tinggal seorang perempuan yang dicintainya.
 
